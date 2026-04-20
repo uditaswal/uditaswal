@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Udit Aswal</h1>
 <h3 align="center">Full Stack Developer • AI Enthusiast • Building Real-World Products</h3>
 
@@ -14,9 +14,7 @@ Focused on creating scalable web applications, exploring AI systems, and growing
 - 🤖 Exploring **AI integrations, automation & intelligent apps**
 - 🧠 Strong foundation in **Backend Development, APIs, SQL & Problem Solving**
 - ☁️ Interested in **Cloud, DevOps & scalable deployments**
-- 📚 Pursuing **MCA** while continuously building projects
-- 🎯 Goal: Become an elite engineer in **Full Stack + AI**
-
+- 📚 Pursuing **MCA** 
 ---
 
 ## 🛠️ Tech Stack
@@ -50,63 +48,44 @@ Focused on creating scalable web applications, exploring AI systems, and growing
 ## 🔥 Featured Projects
 
 ### 🏥 Healthcare Appointment System
-- Full-stack appointment booking platform
-- Admin dashboard with role-based access
-- SMS notifications using Twilio
-- Secure file uploads using Appwrite
+
+🔗 **Live Demo:** [Azure](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/) 
+🔗 **Live Demo:** [Vercel](https://care-plus-one.vercel.app/)  
+📂 **Repository:** [Github](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/)
+
+- Full-stack appointment booking platform  
+- Admin dashboard with role-based access  
+- SMS notifications using Twilio  
+- Secure file uploads using Appwrite  
 
 **Stack:** Next.js, TypeScript, Tailwind, Appwrite, Twilio
 
 ---
 
 ### 🔗 URL Shortener Platform
-- Guest + authenticated URL shortening system
-- Analytics dashboard with click tracking
-- JWT authentication + secure cookies
-- Logging, testing & production security practices
+
+🔗 **Live Demo:** [Render](https://url-shortner-ugkr.onrender.com/)  
+📂 **Repository:** [Github](https://github.com/uditaswal/url-shortner.git)
+
+- Guest + authenticated URL shortening system  
+- Analytics dashboard with click tracking  
+- JWT authentication + secure cookies  
+- Logging, testing & production security practices  
 
 **Stack:** Node.js, Express.js, MongoDB, EJS
 
 ---
 
-## 📈 Current Focus
-
-- 🤖 AI SaaS Products  
-- ⚡ Data Structures & Algorithms  
-- 🌐 Advanced Full Stack Development  
-- ☁️ Cloud Deployments & Scaling  
-- 💼 Preparing for top developer opportunities
-
----
-
 ## 🏆 Certifications
-
+- Azure Developer Associate (AZ-204)
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure AI Fundamentals (AI-900)
-- Azure Developer Associate (AZ-204)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
 <a href="mailto:udit.aswal37@gmail.com">Email</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://portfolio-uditaswal.vercel.app/">Porfolio</a>
 </p>
 
----
-
-## ✨ Quote
-
-> Stay consistent. Build skills. Let success become obvious.
-```
