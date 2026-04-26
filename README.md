@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Udit Aswal</h1>
-<h3 align="center">Full Stack Developer • AI Enthusiast • Building Real-World Products</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 Focused on creating scalable web applications, exploring AI systems, and growing into a high-impact software engineer 🚀
@@ -14,7 +14,7 @@ Focused on creating scalable web applications, exploring AI systems, and growing
 - 🤖 Exploring **AI integrations, automation & intelligent apps**
 - 🧠 Strong foundation in **Backend Development, APIs, SQL & Problem Solving**
 - ☁️ Interested in **Cloud, DevOps & scalable deployments**
-- 📚 Pursuing **MCA** 
+- 📚 Pursuing **Masters in Computer Application** 
 ---
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,6 @@ Focused on creating scalable web applications, exploring AI systems, and growing
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Cloud / Tools
@@ -84,7 +83,7 @@ Focused on creating scalable web applications, exploring AI systems, and growing
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="www.linkedin.com/in/uditaswal">LinkedIn</a> •
 <a href="mailto:udit.aswal37@gmail.com">Email</a> •
 <a href="https://portfolio-uditaswal.vercel.app/">Porfolio</a>
 </p>
