@@ -4,9 +4,8 @@
 ###  About Me
 - Currently working at HCLTech and pursuing Masters in Computer Application via WILP programme.
 - Building full-stack projects using MERN, Next.js and TypeScript
-- Interested in backend systems, APIs, and clean architecture
+- Interested in backend systems, APIs, cloud deployment and DevOps workflows
 - Exploring AI features and practical automation
-- Learning cloud deployment and DevOps workflows
 
 ---
 ### Features Projects
