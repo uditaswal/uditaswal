@@ -3,18 +3,18 @@
 
 ###  About Me
 - Currently working at HCLTech and pursuing Masters in Computer Application via WILP programme.
-- Building full-stack projects using MERN, Next.js and TypeScript
+- Building full-stack and backend-focused applications using Next.js, TypeScript, PostgreSQL and cloud-native tools.
 - Interested in backend systems, APIs, cloud deployment and DevOps workflows
 - Exploring AI features and practical automation
 
 ---
-### Features Projects
+### Featured Projects
 |  Projects                                  | Description                                                                                                                               | Stack                                                  | GitHub | Live Link   |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------ | ----------- |
 |  CarePlus – Healthcare Appointment System | Full-stack healthcare appointment platform with admin dashboard, booking workflows, SMS notifications, and secure file uploads.           | Next.js, TypeScript, Tailwind CSS, Appwrite, Twilio    |   [Github](https://github.com/uditaswal/CarePlus)     | [Azure](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/) , [Vercel](https://care-plus-one.vercel.app/)         |
 |  URL Shortener Platform                   | URL shortening platform with guest + authenticated usage, analytics dashboard, click tracking, JWT auth, logging. | Node.js, Express.js, MongoDB, EJS                      |   [Github](https://github.com/uditaswal/url-shortner.git)     |    [Render](https://url-shortner-ugkr.onrender.com/)           |
-|  Blog App                  | Full-stack blogging platform with JWT cookie authentication, profile management, image uploads, and scalable backend architecture.        | Node.js, Express.js, MongoDB, React |   [Github](https://github.com/uditaswal/Blog_App)      |🚀 Coming Soon      ████████████████░░░░] 75%  |
-| ProctorX – Cloud Proctored Exam Platform | Online exam platform with coding support, proctoring concepts, secure auth.                                 | Next.js, TypeScript, Node.js, Express, Appwrite        |      [Github](https://github.com/uditaswal/proctorx-platform)     | 🚀 Coming Soon      [██████████░░░░░░░░░░] 35% |
+|  Blog App                  | Full-stack blogging platform with JWT cookie authentication, profile management, image uploads, and scalable backend architecture.        | Node.js, Express.js, MongoDB, React |   [Github](https://github.com/uditaswal/Blog_App)      |Currently under active development  |
+| ProctorX – Cloud Proctored Exam Platform | Online exam platform with coding support, proctoring concepts, secure auth.                                 | Next.js, TypeScript, Node.js, Express, Appwrite        |      [Github](https://github.com/uditaswal/proctorx-platform)     | Currently under active development    |
 
 
 
