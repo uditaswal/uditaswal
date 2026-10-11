@@ -60,8 +60,3 @@
 - Microsoft Certified: **Azure AI Fundamentals** (AI-900)
 - Microsoft Certified: **Azure Fundamentals** (AZ-900)
 
----
-
-<p align="center">
-  <i>Always learning, mostly building, occasionally debugging.</i>
-</p>
