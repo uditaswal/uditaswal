@@ -1,50 +1,67 @@
-
 <h1 align="center">Hi 👋, I'm Udit Aswal</h1>
+<p align="center">Lead Software Engineer · Learning, building, and breaking things</p>
 
-###  About Me
-- Currently working at HCLTech as a Lead Software Engineer at 22 with 4 Years of experience handling outages and pursuing Masters in Computer Application via WILP programme.
+<p align="center">
+  <a href="https://www.linkedin.com/in/uditaswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-uditaswal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:udit.aswal37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- Lead Software Engineer at **HCLTech** with 4 years of experience handling production outages
+- Pursuing a Master of Computer Applications (MCA) through **WILP**
 - Learning, building, and breaking things with Next.js, TypeScript, PostgreSQL, cloud-native deployment, and AI-powered workflows
 
 ---
-### Featured Projects
-|  Projects                                  | Description                                                                                                                               | Stack                                                  | GitHub | Live Link   |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------ | ----------- |
-| TubeForge – Video Automation Platform | Video creation and stream-clipping platform being built to automate content generation, scheduling, and publishing across social platforms. | Python, Docker, FFmpeg | [GitHub](https://github.com/uditaswal/TubeForge) |<span title="Under construction">🚧</span>|
-|  CarePlus – Healthcare Appointment System | Full-stack healthcare appointment platform with admin dashboard, booking workflows, SMS notifications, and secure file uploads.           | Next.js, TypeScript, Tailwind CSS, Appwrite, Twilio    |   [Github](https://github.com/uditaswal/CarePlus)     | [Azure](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/) , [Vercel](https://care-plus-one.vercel.app/)         |
-|  URL Shortener Platform                   | URL shortening platform with guest + authenticated usage, analytics dashboard, click tracking, JWT auth, logging. | Node.js, Express.js, MongoDB, EJS                      |   [Github](https://github.com/uditaswal/url-shortner.git)     |    [Render](https://url-shortner-ugkr.onrender.com/)           |
-|  Blog App                  | Full-stack blogging platform with JWT cookie authentication, profile management, image uploads, and scalable backend architecture.        | Node.js, Express.js, MongoDB, React |   [Github](https://github.com/uditaswal/Blog_App)      |<span title="Under construction">🚧</span>|
-| ProctorX – Cloud Proctored Exam Platform | Online exam platform with coding support, proctoring concepts, secure auth.                                 | Next.js, TypeScript, Node.js, Express, Appwrite        |      [Github](https://github.com/uditaswal/proctorx-platform)     |<span title="Under construction">🚧</span>|
 
+## 🚀 Featured Projects
 
-##  Tech Stack
+| Project | Stack | Links |
+| :-- | :-- | :-- |
+| **TubeForge** – Video Automation Platform<br>Video creation and stream-clipping platform to automate content generation, scheduling, and publishing across social platforms. | Python, Docker, FFmpeg | [GitHub](https://github.com/uditaswal/TubeForge) |
+| **CarePlus** – Healthcare Appointment System<br>Full-stack appointment platform with admin dashboard, booking workflows, SMS notifications, and secure file uploads. | Next.js, TypeScript, Tailwind CSS, Appwrite, Twilio | [GitHub](https://github.com/uditaswal/CarePlus) · [Azure](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/) · [Vercel](https://care-plus-one.vercel.app/) |
+| **URL Shortener Platform**<br>Guest and authenticated usage, analytics dashboard, click tracking, JWT auth, and logging. | Node.js, Express.js, MongoDB, EJS | [GitHub](https://github.com/uditaswal/url-shortner.git) · [Render](https://url-shortner-ugkr.onrender.com/) |
+| **Blog App**<br>Blogging platform with JWT cookie authentication, profile management, image uploads, and scalable backend architecture. | Node.js, Express.js, MongoDB, React | [GitHub](https://github.com/uditaswal/Blog_App) |
+| **ProctorX** – Cloud Proctored Exam Platform<br>Online exam platform with coding support, proctoring concepts, and secure auth. | Next.js, TypeScript, Node.js, Express, Appwrite | [GitHub](https://github.com/uditaswal/proctorx-platform)|
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
---- 
-## Certifications
+**Cloud & Tools**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified: **Azure Developer Associate** (AZ-204)
+- Microsoft Certified: **Azure AI Fundamentals** (AI-900)
+- Microsoft Certified: **Azure Fundamentals** (AZ-900)
 
 ---
 
 <p align="center">
-  <b>Connect With Me</b> <br>  •
-  <a href="https://www.linkedin.com/in/uditaswal" target="_blank">LinkedIn</a> •
-  <a href="mailto:udit.aswal37@gmail.com">Email</a> •
-  <a href="https://portfolio-uditaswal.vercel.app/" target="_blank">Portfolio</a>
+  <i>Always learning, mostly building, occasionally debugging.</i>
 </p>
