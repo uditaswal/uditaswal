@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Aswal</h1>
-<p align="center">Lead Software Engineer · Learning, building, and breaking things</p>
+<p align="center">Software Engineer · Learning, building, and breaking things</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uditaswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
