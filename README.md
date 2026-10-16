@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- Lead Software Engineer at **HCLTech** with 4 years of experience handling production outages
+- Lead Software Engineer at **HCLTech** with 4 years of experience
 - Pursuing a Master of Computer Applications (MCA) through **WILP**
 - Learning, building, and breaking things with Next.js, TypeScript, PostgreSQL, cloud-native deployment, and AI-powered workflows
 
