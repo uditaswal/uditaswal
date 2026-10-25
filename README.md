@@ -10,7 +10,7 @@
 
 - 22 Years old, Lead Engineer at **[HCLTech](https://www.hcltech.com/)**, keeping production systems running 24x7.
 - Pursuing a Master of Computer Applications (MCA) through **Amity WILP**.
-- Currently experimenting with Python, Next.js, TypeScript, PostgreSQL, cloud-native deployment and AI-powered workflows.
+- Currently experimenting with Python, Next.js, TypeScript, PostgreSQL, cloud-native deployment and AI automation.
 
 ---
 
