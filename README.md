@@ -19,9 +19,10 @@
 | Project | Stack | Links |
 | :-- | :-- | :-- |
 | **TubeForge** – Video Automation Platform<br>Video creation and stream-clipping platform to automate content generation, scheduling, and publishing across social platforms. | Python, Docker, FFmpeg | [GitHub](https://github.com/uditaswal/TubeForge) |
+| **OpsDetective** – AI Observability Platform<br>Self-hosted app for tenant-scoped service management, authenticated telemetry intake, Prometheus metrics, and synthetic fault testing. | Python, FastAPI, Next.js, PostgreSQL, Prometheus, OpenTelemetry, Docker | [GitHub](https://github.com/uditaswal/OpsDetective) |
 | **CarePlus** – Healthcare Appointment System<br>Full-stack appointment platform with admin dashboard, booking workflows, SMS notifications, and secure file uploads. | Next.js, TypeScript, Tailwind CSS, Appwrite, Twilio | [GitHub](https://github.com/uditaswal/CarePlus) · [Azure](https://careplus-eze4eehwdhdvh2dv.centralindia-01.azurewebsites.net/) · [Vercel](https://care-plus-one.vercel.app/) |
 | **URL Shortener Platform**<br>Full-stack URL shortener with authenticated link management, custom aliases, expiration rules, click analytics, secure redirects, rate limiting, and CI-tested API flows. | TypeScript, Node.js, Express.js, MongoDB, EJS | [GitHub](https://github.com/uditaswal/url-shortner) · [Render](https://url-shortner-ugkr.onrender.com/) |
-| **ProctorX** – Cloud Proctored Exam Platform<br>Online exam platform with coding support, proctoring concepts, and secure auth. | Next.js, TypeScript, Node.js, Express, Appwrite | [GitHub](https://github.com/uditaswal/proctorx-platform) |
+| **SnakeGame** – Full-stack Snake game with keyboard and touch controls, guest play, Google sign-in, and a public leaderboard with server-validated scores. | React, TypeScript, Tailwind CSS, Node.js, Neon PostgreSQL, Vercel | [GitHub](https://github.com/uditaswal/SnakeGame) · [Vercel](https://snake-game-two-flame.vercel.app/) |
 
 ---
 
